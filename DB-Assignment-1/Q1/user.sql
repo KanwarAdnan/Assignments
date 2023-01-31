@@ -1,0 +1,9 @@
+insert into user (uid, name, phone, email, password, rid) values (1, 'wtwycross0', '+48 816 107 8159', 'libbetson0@google.nl', 'BaNMwHD', 1);
+insert into user (uid, name, phone, email, password, rid) values (2, 'mboyd1', '+261 731 698 1609', 'ejeckells1@soup.io', 'OyLjIogUrRZ', 2);
+insert into user (uid, name, phone, email, password, rid) values (3, 'ddawton2', '+86 873 751 0396', 'gwelch2@woothemes.com', 'fT84XVSfe1p', 3);
+insert into user (uid, name, phone, email, password, rid) values (4, 'pheninghem3', '+53 215 856 2381', 'rclynman3@storify.com', '2sWccBbU', 4);
+insert into user (uid, name, phone, email, password, rid) values (5, 'nprester4', '+86 961 218 2225', 'llongworth4@zimbio.com', 'NxMQ4Ipt9X', 5);
+insert into user (uid, name, phone, email, password, rid) values (6, 'deverington5', '+58 104 674 5969', 'jpenrose5@columbia.edu', '5t7GLn2B54s', 1);
+insert into user (uid, name, phone, email, password, rid) values (7, 'mhaysar6', '+62 180 254 5802', 'bkinchin6@nature.com', '2iZEO5TN7opt', 2);
+insert into user (uid, name, phone, email, password, rid) values (8, 'mtribbeck7', '+55 174 876 1492', 'gorbon7@booking.com', 'RMCrdZip4quD', 2);
+insert into user (uid, name, phone, email, password, rid) values (9, 'cwarwicker8', '+226 181 175 4703', 'mjeenes8@acquirethisname.com', 'x51MTRx', 1);
